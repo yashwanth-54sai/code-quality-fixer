@@ -1,0 +1,26 @@
+# Core UI
+
+streamlit
+
+# LLM + Orchestration
+
+langchain
+langchain-groq
+langchain-core
+
+# Environment management
+
+python-dotenv
+
+# Python static analysis
+
+pylint
+radon
+
+# Utilities
+
+rich
+
+# Visualization
+
+matplotlib
