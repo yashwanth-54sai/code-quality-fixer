@@ -9,7 +9,7 @@ NO API keys are stored here.
 # MODEL CONFIGURATION
 # =========================
 
-DEFAULT_MODEL = "llama-3.1-8b-instant"
+DEFAULT_MODEL = "llama-3.3-70b-versatile"
 
 LLM_TEMPERATURE = 0.2
 LLM_MAX_TOKENS = 2048
